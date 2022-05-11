@@ -22,5 +22,5 @@ Route::get('/contato', function () {
 })->name('site.contact');
 
 Route::get('/cursos', function () {
-    return view('welcome');
+    return view('site.courses');
 })->name('site.courses');
