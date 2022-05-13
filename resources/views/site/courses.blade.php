@@ -2,7 +2,10 @@
 
 
 @section('content')
-
+<div class="container">
 <h1>Courses page</h1>
+
+</div>
+
 
 @endsection

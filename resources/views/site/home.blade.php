@@ -11,7 +11,7 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> -->
-        <img src="https://engineering.fb.com/wp-content/uploads/2022/03/WhatsApp-Code-Verify-Hero2.jpg" width="100%" height="100%" alt="">
+        <img src="https://engineering.fb.com/wp-content/uploads/2022/03/WhatsApp-Code-Verify-Hero2.jpg" width="100%" height="700" alt="">
         <div class="container">
           <div class="carousel-caption text-start">
             <h1>Example headline.</h1>
@@ -29,7 +29,7 @@
       </div>
       <div class="carousel-item">
         <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> -->
-        <img src="https://lc-public-assets.s3.sa-east-1.amazonaws.com/images/Cover/LetsCodeCover.png" width="100%" height="100%" alt="">
+        <img src="https://lc-public-assets.s3.sa-east-1.amazonaws.com/images/Cover/LetsCodeCover.png" width="100%" height="700" alt="">
         <div class="container">
           <div class="carousel-caption">
             <!-- <h1>Another example headline.</h1> -->
@@ -40,7 +40,7 @@
       </div>
       <div class="carousel-item">
         <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg> -->
-        <img src="https://userguiding.com/wp-content/uploads/2020/07/no-code-tools-1.jpg" width="100%" height="100%" alt="">
+        <img src="https://userguiding.com/wp-content/uploads/2020/07/no-code-tools-1.jpg" width="100%" height="700" alt="">
         <div class="container">
           <div class="carousel-caption text-end">
             <!-- <h1>One more for good measure.</h1> -->
@@ -65,7 +65,7 @@
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="container marketing py-3">
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
