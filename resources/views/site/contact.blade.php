@@ -3,7 +3,7 @@
 @section('content')
 
 
-<div class="mt-4 p-3 bg-light text-black rounded">
+<div class="mt-4 p-3 bg-light text-black rounded text-center">
     <div class="container">
         <h1>Contato</h1>
         <p>Nossa equipe esta sempre a disposiçao para lhe ajudar!</p>
